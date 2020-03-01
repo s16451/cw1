@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Popkot\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Popkot\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Cwiczenia1.2084176013.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Popkot\PJA\Repositories\APBD\cw1\Cwiczenia1\Cwiczenia1" t="IncludeFlat">
+      <e p="Cwiczenia1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Cwiczenia1.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="Cwiczenia1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Cwiczenia1.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
